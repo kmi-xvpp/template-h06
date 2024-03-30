@@ -1,4 +1,4 @@
-# L10E01: TicTacToe
+# H06: TicTacToe
 Ve složce `tictactoe` naleznete balíček obsahující jednoduchou implementaci hry TicTacToe (piškvorky na hrací desce 3x3). Během řešení tohoto úkolu je možné používat i věci nad rámec semináře (hlavně v kontextu knihovny `pytest` a `typing`).
 
 Ukázka použití
